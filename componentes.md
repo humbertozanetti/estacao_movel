@@ -10,7 +10,7 @@ SO2      | MQ136    | R$175,00
 NOX      | MICS-6814| R$328,18
 O3       | MQ131    | R$208,53
 Poeira   | DSM501A  | R$54,64
-  ---    | TOTAL    | R$790,35
+  ---    | **TOTAL**    | R$790,35
 
 ### CO2 (dióxido de carbono)
 MQ135 (https://www.filipeflop.com/img/files/download/Sensor_de_gas_MQ-135.pdf)
